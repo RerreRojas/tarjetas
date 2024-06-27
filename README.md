@@ -27,12 +27,16 @@ El proyecto está dividido en tres secciones principales:
 * Tipo de tarjeta SRC: La imagen del tipo de tarjeta se muestra utilizando la directiva v-bind para enlazar la fuente de la imagen (:src).
 
 ##### Estilos
+
 * Formulario: El formulario está estilizado con un diseño de rejilla para alinear las etiquetas y los campos de entrada.
 * Tarjeta: La tarjeta tiene un fondo oscuro, con texto en color blanco y se utiliza un diseño de columna flexible para alinear los elementos.
+  
 #### Dependencias
+
 Este componente no tiene dependencias adicionales aparte de Vue.js.
 
 #### Ejecución
+
 Para ejecutar este componente, asegúrate de tener un proyecto Vue.js configurado. Copia el código proporcionado en tu archivo .vue y asegúrate de que las imágenes referenciadas en chipSRC y tipoTarjeta existan en la ruta especificada.
 
 
