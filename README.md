@@ -19,9 +19,9 @@ El proyecto está dividido en tres secciones principales:
 * Propietario: Ingresa el nombre del propietario de la tarjeta.
 * Tipo de tarjeta SRC: Selecciona el tipo de tarjeta (por ejemplo, "Visa").
 #### Vista Previa de la Tarjeta
-* Título de la tarjeta: Se muestra en un encabezado <h3>.
+* Título de la tarjeta: Se muestra en un encabezado `<h3>`.
 * Chip SRC: La imagen del chip se muestra utilizando la directiva v-bind para enlazar la fuente de la imagen (:src).
-* Número: Se muestra en un encabezado <h2>.
+* Número: Se muestra en un encabezado `<h2>`.
 * Fecha de expiración: Se muestra la fecha de expiración ingresada.
 * Propietario: Se muestra el nombre del propietario en el pie de página (<footer>).
 * Tipo de tarjeta SRC: La imagen del tipo de tarjeta se muestra utilizando la directiva v-bind para enlazar la fuente de la imagen (:src).
